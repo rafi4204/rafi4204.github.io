@@ -1,0 +1,94 @@
+*{
+	padding: 0px;
+	margin: o auto;
+	font-family: Lucida Fax;
+}
+.blue{
+	background-color: #14bc98;
+}
+.icon{
+	font-size: 30px;
+}
+.banner{
+	background-color: black;
+}
+.linkcolor{
+	color: white;
+}
+.footer{
+	padding-top: 0;
+	background-color: black;
+	margin-top: 40px;
+}
+.footer_nav{
+	list-style: none;
+	color: black;
+	text-align: left;
+}
+.footer_nav li a{
+	color: white;
+}
+.footer_nav li a:hover{
+	color: black;
+	text-decoration: none;
+}
+.item{
+	max-height: 50%;
+	position: block;
+	overflow: hidden;
+}
+.item img{
+	width: 100%;
+	position: relative;
+}
+.box{
+	padding-top: 50px;
+	border-color: black;
+	border-width: 2px;
+}
+.advertisement-text{
+	font-size: 30px;
+}
+.dollar{
+	font-size: 50px;
+}
+.post-now{
+	font-size: 20px;
+}
+.display_row{
+	border-bottom: solid;
+	border-bottom-width: 0px;
+	border-color: blue;
+	height: 130px;
+	width:  100%;
+	padding-left: 150px;
+}
+.picture{
+
+	float: left;
+	padding-right: 50px;
+}
+
+.picture img {
+	
+		width: 100px;
+	height: 100px;
+
+}
+.display_gallery{
+	width: 100%;
+	text-align: center;
+	border-bottom: solid;
+	border-width: 2px;
+	display: block;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	clear: left;
+}
+.display_gallery img{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.text_info{
+	text-align: center;
+}
